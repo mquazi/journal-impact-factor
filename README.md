@@ -43,8 +43,6 @@ Number of unique nursing journals with a reported Journal Impact Factor (JIF) gr
 
 The number of nursing journals with valid Journal Impact Factors (JIFs) increased over time, with gradual growth during earlier years followed by a marked increase in the most recent period. The figure includes 192 journals with valid JIF observations; missing years are not displayed.
 
-*Note.* JIF, Journal Impact Factor.
-
 ![Figure 2](results/figure2.png)
 
 ### Figure 3. Distribution of year-over-year Journal Impact Factor (JIF) percent change across three epochs
